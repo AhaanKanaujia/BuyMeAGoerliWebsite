@@ -3,7 +3,7 @@
 Frontend of the BuyMeACoffee Dapp built with Replit, Ethers.js, and React. Based of the Smart Contract backend code of 
 <a href="https://github.com/AhaanKanaujia/BuyMeACoffee" target="_blank">BuyMeACoffee</a>. 
 
-To customize the website to load info from your own contract, change the following:
+Customize the website to match own contract:
 
 - Update `contractAddress` in `pages/index.js` to your own BuyMeACoffee contract on the Goerli testnet.
 - Update `utils/BuyMeACoffee.json` to match the json artifact for your contract after compilation.
