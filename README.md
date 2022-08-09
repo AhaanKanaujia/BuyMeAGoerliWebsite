@@ -1,6 +1,6 @@
 # BuyMeACoffeeWebsite
 
-Frontend of the BuyMeACoffee Dapp built with Replit, Ethers.js, and React. Based of the Smart Contract backend code of 
+Frontend of the BuyMeAGoerli Dapp built with Replit, Ethers.js, and React. Based of the Smart Contract backend code of 
 <a href="https://github.com/AhaanKanaujia/BuyMeACoffee" target="_blank">BuyMeACoffee</a>. 
 
 Customize the website to match own contract:
